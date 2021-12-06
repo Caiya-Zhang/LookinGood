@@ -75,8 +75,6 @@ A Linux or Raspberry Pi environment is needed tocompile and run this program.  A
 
 ### Usage ###
 
-![](C:\UWO\Academics\thirdYear\CS3307\group asn\gui.jpg)
-
 #### Steps ####
 1. Build and launch using the instructions above;
 2. Click "upload" to upload a photo;
